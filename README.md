@@ -1,4 +1,4 @@
-# SourceCodeSocity website guide
+# SourceCodeSociety contribution guide
 
 ## Setup 💻
 
